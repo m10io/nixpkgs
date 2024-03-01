@@ -492,7 +492,7 @@ GEM
     xpath (3.2.0)
       nokogiri (~> 1.8)
     yaml-lint (0.1.2)
-    yard (0.9.34)
+    yard (0.9.36)
     zeitwerk (2.6.7)
 
 PLATFORMS
@@ -634,7 +634,7 @@ DEPENDENCIES
   webmock
   webrick
   yaml-lint
-  yard
+  yard (>= 0.9.35)
 
 BUNDLED WITH
    2.4.10
